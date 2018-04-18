@@ -8,6 +8,7 @@ This code is provided as-is. It is has limited supported by the EGA.
 
 Running the tool from the command line: "java -jar EgaDecryptor.jar [options]"
 
+```
 Usage: <main class> [options]
   Options:
     --bits
@@ -33,6 +34,7 @@ Usage: <main class> [options]
       Default: 0
     --version
       Print Version Number
+```
 
 
 ### Installing
